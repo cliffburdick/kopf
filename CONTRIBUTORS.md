@@ -13,3 +13,4 @@ For the detailed information on who did what, see [GitHub Contributors](https://
 - [Soroosh Sarabadani](https://github.com/psycho-ir)
 - [Trond Hindenes](https://github.com/trondhindenes)
 - [Vennamaneni Sai Narasimha](https://github.com/thevennamaneni)
+- [Cliff Burdick](https://github.com/cliffburdick)
